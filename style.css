@@ -403,3 +403,8 @@ nav .fa-solid{
     margin-top: -40px;
     display: block;
 }
+
+.highlight {
+  color: #64ffda;
+  font-weight: 500;
+}
